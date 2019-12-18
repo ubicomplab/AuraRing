@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=ring_rx_vs_multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\ring_rx_v3_controller\ring_rx_v3_controller.PrjPcb
+Record=SubProject|SourceDocument=ring_rx_vs_multi.MbsDoc|ProjectPath=..\ring_rx_v3_controller\ring_rx_v3_controller.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ring_rx_vs_multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
+Record=SubProject|SourceDocument=ring_rx_vs_multi.MbsDoc|ProjectPath=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ring_rx_v3_multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\ring_rx_v3_controller\ring_rx_v3_controller.PrjPcb
+Record=SubProject|SourceDocument=ring_rx_v3_multi.MbsDoc|ProjectPath=..\ring_rx_v3_controller\ring_rx_v3_controller.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ring_rx_v3_multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
+Record=SubProject|SourceDocument=ring_rx_v3_multi.MbsDoc|ProjectPath=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ring_rx_v3_multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
+Record=SubProject|SourceDocument=ring_rx_v3_multi.MbsDoc|ProjectPath=..\ring_rx_v3_sensor\ring_rx_v3_sensor.PrjPcb
